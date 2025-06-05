@@ -3,7 +3,8 @@
 Welcome to my TryHackMe learning journey. I’m using this platform to build my hands-on skills in cybersecurity.
 
 ## 🌐 Profile
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Ilyasedev.png)](https://tryhackme.com/p/Ilyasedev)
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Ilyasedev.png)](https://tryhackme.com/p/Ilyasedev)
 
 ## ✅ Rooms Completed
 
